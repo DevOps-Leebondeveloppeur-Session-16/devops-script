@@ -2,4 +2,4 @@ services:
   frontend:
     image: oumaymasfaxi/front-session16
     ports:
-      -3007:80
+      - '3007:80'
